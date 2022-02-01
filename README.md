@@ -1,3 +1,3 @@
 # my-website-portfolio
 
-Live example [http://SpaceGuy.org](#SpaceGuy.org)
+Live example [SpaceGuy.org](#http://SpaceGuy.org)
