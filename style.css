@@ -436,7 +436,7 @@ footer .content .contacts a:hover,
 }
 .skew-for-my-work {
 	position: absolute;
-	height: 1850px;
+	height: 1550px;
 	width: 100%;
 	transform: skewY( -10deg );
 	background-color: var( --third-bg );
@@ -454,7 +454,7 @@ footer .content .contacts a:hover,
 	left: 0;
 	overflow: hidden;
 	width: 100%;
-	height: 1850px;
+	height: 1550px;
 	transform-origin: 0 0;
 	-webkit-transform-origin: 0 0;
 	-moz-transform-origin: 0 0;
@@ -916,7 +916,7 @@ footer .content .created-by p span {
 	}
 	.skew-for-my-work,
 	.my-work-scever {
-		height: 3050px;
+		height: 2200px;
 	}
 }
 @media ( max-width: 450px ) {
@@ -935,10 +935,10 @@ footer .content .created-by p span {
 		height: 900px;
 	}
 	.skew-for-my-work {
-		height: 1950px;
+		height: 1550px;
 	}
 	.my-work-scever {
-		height: 1950px;
+		height: 1550px;
 	}
 }
 @keyframes test {
